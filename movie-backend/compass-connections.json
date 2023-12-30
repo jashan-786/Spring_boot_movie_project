@@ -1,0 +1,25 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "07d0bd06-d4e0-46fd-9122-a59003c988e3",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1695946713055"
+        }
+      },
+      "favorite": {
+        "name": "SPRING"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://hsiskesks:y3loyGvnpcU2Owdu@cluster0.fs6hymy.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
